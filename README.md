@@ -1,5 +1,8 @@
 # team-readme-kickoff
 
+## LINK DESPLEGABLE:
+https://acaycedo24.github.io/team-readme-kickoff/
+
 # ConectaNegocio
 
 > Comparar, conversar y hacer seguimiento sin cambiar de plataforma.
